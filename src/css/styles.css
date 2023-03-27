@@ -18,3 +18,31 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.itemsCountry {
+  display: flex;
+  gap: 20;
+  justify-content: start;
+  align-items: center;
+}
+
+.name_country,
+.country-info {
+  font-size: 20px;
+  font-weight: 700;
+  color: black;
+}
+
+.name-thumb {
+  display: flex;
+  gap: 20;
+}
+
+.text {
+  font-weight: 400;
+  color: indigo;
+}
+.label{
+  font-size: 20;
+  font-weight: 400;
+}
